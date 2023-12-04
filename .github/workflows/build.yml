@@ -33,4 +33,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: skjnldsv/nextcloud-cronjob:latest
+          tags: ghcr.io/skjnldsv/nextcloud-cronjob:latest
